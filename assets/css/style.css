@@ -1,0 +1,175 @@
+.mainmenu {
+  width: 100vw;
+  height: 85px;
+  left: 20%;
+  background-color: #FFFFFF;
+  padding-left: 400px;
+  top: 0.61%;
+  bottom: 98.93%;
+}
+
+.mainimage {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  left: 0px;
+  top: 85px;
+  background-image: url(../image/Background-image.png);
+  background-size: cover;
+}
+
+#logo {
+  position: absolute;
+  left: 150px;
+
+  top: 25px;
+}
+
+
+
+.Why {
+  position: absolute;
+  left: 27.45vw;
+  top: 25px;
+  align-content: center;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #292929;
+  text-decoration: none;
+}
+
+.Sol {
+  position: absolute;
+  left: 36.2%;
+  top: 25px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #292929;
+  text-decoration: none;
+}
+
+.Com {
+  position: absolute;
+  left: 44.17%;
+  top: 25px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #292929;
+  text-decoration: none;
+}
+
+.Pric {
+  position: absolute;
+  left: 53.28%;
+  top: 25px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #292929;
+  text-decoration: none;
+}
+
+.Sign {
+  position: absolute;
+  left: 71.2%;
+  top: 25px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000000;
+  text-decoration: none;
+}
+
+.Start {
+  position: absolute;
+  left: 81.2%;
+  top: 10px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 24px;
+  text-decoration: none;
+  padding: 15px 20px 15px 20px;
+  background: #01996D;
+  border: 1px solid #01996D;
+  box-sizing: border-box;
+  border-radius: 4px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+
+#BeAware {
+  position: absolute;
+  width: 440px;
+  left: 150px;
+  top: 261px;
+  font-family: Georgia;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 74px;
+  color: #01996D;
+}
+
+#Everyone {
+  position: absolute;
+  width: 420px;
+  height: 123px;
+  left: 150px;
+  top: 480px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 31px;
+  color: #484848;
+}
+
+#find {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 50px;
+  position: absolute;
+  width: 227px;
+  height: 65px;
+  left: 150px;
+  top: 610px;
+  background: #01996D;
+  border: 1px solid #01996D;
+  box-sizing: border-box;
+  border-radius: 4px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 25px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+p {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 31px;
+}
